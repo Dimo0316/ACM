@@ -1,0 +1,4 @@
+1.int n, int  n1,n2,..nn.  Put put the number which is most.
+Example
+input:7           2 3 4 5 5 1 2
+output:5
